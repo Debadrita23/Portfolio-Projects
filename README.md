@@ -1,4 +1,4 @@
-# Portfolio-Projects 
+# Exploratory Data Analysis
 
 Anime is awesome! My love for anime blossomed in my childhood after watchingNaruto and then I was just sucked right into the world of anime.
 Personally, I like the way in which many ideas and concepts are explained through anime — may it be the feeling of youth coursing through the veins of ambitious teenage boys and girls as in sports anime like Haikyuu, Kuroko no Basuke and Hanebado, or the dilemmas faced by a young Kaneki in Tokyo Ghoul when fighting for peace in a world where humans would co-exist with ghouls or the challenging ways of life that you must live through as expressed in Clannad & Clannad:After Story… Since data about anime is largely available online, performing an analysis on it seems interesting and fun.
