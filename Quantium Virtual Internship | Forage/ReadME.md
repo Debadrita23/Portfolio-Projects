@@ -12,4 +12,4 @@ Through this program, I had the oppurtunity to work on a real-life dataset relat
 ### **2.Experimentation and uplift testing** 📈 📉<br/>
  
 Extended \ analysis from Task 1 to help  identify benchmark stores that allowed to test the impact of the trial store layouts on customer sales.<br/>
-Skills: Data analysisC, ommercial thinking, Statistical testing
+Skills: Data analysis,Commercial thinking, Statistical testing
