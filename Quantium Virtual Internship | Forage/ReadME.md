@@ -1,5 +1,5 @@
 
-Quantium Data Analytics Job Simulation on Forage - March 2023
+Quantium Data Analytics Job Simulation on Forage
 
 
  * Completed a job simulation focused on Data Analytics and Commercial Insights
