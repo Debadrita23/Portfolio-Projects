@@ -8,6 +8,7 @@ With these tools and skills, I worked with real world datasets, extracted insigh
 
 * Exploratory Data Analysis on Anime Data  
 * The GitHub History of Scala Language
-* NYC AirBnB Data Analysis on DataCamp                                                
+* NYC AirBnB Data Analysis on DataCamp
+* Customr Analytics and Upliftment Testing using A/B Tests                                                
 
 Also incuded are the .ipynb files of my Virtual Internship Programme with Quantium (via Forage)
